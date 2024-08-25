@@ -1,0 +1,82 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Dossiers de travail de l'éditeur de code
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de configuration locaux
+*.env
+*.local
+*.config
+*.settings
+
+# Fichiers journaux
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Bases de données locales (si vous utilisez SQLite)
+*.sqlite3
+*.db
+
+# Dossier de vidéos (les vidéos générées temporairement)
+videos/
+
+# Fichiers de cache
+.cache/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.coverage
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg-info/
+
+# Node.js (si vous utilisez des dépendances Node.js)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs et fichiers temporaires
+*.log
+*.bak
+*.tmp
+*.temp
+*.swp
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
